@@ -1,6 +1,6 @@
 # CareerSathi – Your AI-Powered Career Companion  
 
->  **Tatva Hackathon 2025**  
+>  **Tatva's HackWave 1.0 2025**  
 >  **Track 1: AI & ML Challenge – The Career Confusion Crisis**  
 >  **Live Demo:** [https://gentle-profiterole-47d064.netlify.app/](https://gentle-profiterole-47d064.netlify.app/)  
 
